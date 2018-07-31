@@ -13,5 +13,6 @@ public class Hello {
     
     public void fun1_v2(){
         System.out.println("fun1");
+        System.out.println("add a line");
     }
 }
