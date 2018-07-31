@@ -13,5 +13,4 @@ public class Hello {
     public void fun1_v1(){
         System.out.println("fun1_v");
         System.out.println("add some function");
-    }
 }
