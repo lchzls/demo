@@ -10,4 +10,8 @@ public class Hello {
         System.out.println("ok--");
         System.out.println("HelloWorld");
     }
+    
+    public void fun1_v2(){
+        System.out.println("fun1");
+    }
 }
